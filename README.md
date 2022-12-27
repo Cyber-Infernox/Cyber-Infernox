@@ -27,13 +27,13 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<!-- <p align="center">
-[I'm an inline-style link with title](https://www.linkedin.com/in/sayon-kar-9119bb229 "Google's Homepage")
-</p> -->
-
-<a href=" https://www.linkedin.com/in/sayon-kar-9119bb229/ ">
-  <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/master/assets/linkedin.svg" />
-</a>
+<p align="center">
+	<a href="mailto:sayonkar@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+	<a href="https://github.com/Cyber-Infernox/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="www.linkedin.com/in/sayon-kar-9119bb229/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/slander_playz/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://discordapp.com/users/931734225730826300/"><img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
+</p>
 
 <hr>
 
