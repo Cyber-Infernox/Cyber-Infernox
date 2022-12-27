@@ -1,7 +1,7 @@
 ![Untitled design](https://user-images.githubusercontent.com/97396217/209659759-55872455-4526-4a6a-885e-f12bd2795452.gif)
 
 <h1 align="center">Hi 👋, I'm Cyber_Infernox</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">"A passionate full stack developer from India"</h3>
 
 <hr>
 
