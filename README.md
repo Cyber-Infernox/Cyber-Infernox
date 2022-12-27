@@ -27,9 +27,13 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
+<!-- <p align="center">
 [I'm an inline-style link with title](https://www.linkedin.com/in/sayon-kar-9119bb229 "Google's Homepage")
-</p>
+</p> -->
+
+<a href=" https://www.linkedin.com/in/sayon-kar-9119bb229/ ">
+  <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <hr>
 
