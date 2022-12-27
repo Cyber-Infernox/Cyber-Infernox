@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Cyber-Infernox</h1>
+<h1 align="center">Hi 👋, I'm Cyber_Infernox</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <hr>
@@ -44,7 +44,7 @@
 
 <hr>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-infernox&show_icons=true&locale=en" alt="cyber-infernox" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&show_icons=true&locale=en" alt="cyber-infernox" /></p>
 
 <hr>
 
