@@ -2,12 +2,12 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me sayonkar@gmail.com
+- 📫 How to reach me not now
 
-I am a sophomore at Motilal Nehru National Institute of Technology, Allahabad. I am a full stack developer enthusiast and am looking forward to learn new technologies.
-I am experienced with some of the popular frameworks and languages listed below -
+Hi, 
+I am sophomore at Motilal Nehru National Institute Of Technology(MNNIT), Allahabad.
+As a technophile and a full stack developer enthusiast, passionate about learning new technologies, I am looking forward to work in a team having a challenging environment.
 
-- Frontend = HTML, CSS, Javascript, React.JS, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Infernox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
