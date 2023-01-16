@@ -67,8 +67,6 @@
 <hr>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-infernox&show_icons=true&locale=en&layout=compact" alt="cyber-infernox" /></p>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Infernox&hide=javascript,css,scss,html&theme=tokyonight) -->
-<p align="center"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=cyber-infernox&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Infernox&show_icons=true&theme=tokyonight)" alt="cyber-infernox" /></p>
 
 <hr>
 
