@@ -67,7 +67,7 @@
 <hr>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-infernox&show_icons=true&locale=en&layout=compact" alt="cyber-infernox" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-infernox&langs_count=8)](https://github.com/cyber-infernox/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-infernox&langs_count=8)
 
 <hr>
 
