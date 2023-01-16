@@ -66,7 +66,7 @@
 
 <hr>
 
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-infernox&show_icons=true&locale=en&layout=compact" alt="cyber-infernox" /></p>
 
 <hr>
 
