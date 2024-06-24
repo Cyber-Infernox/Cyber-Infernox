@@ -63,24 +63,55 @@
 
 <hr>
 
-<h3 align="center">Achievements</h3>
+## 📊 GitHub Stats
+<img src="assets/light.gif">
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-infernox" alt="cyber-infernox" /></a>
-</p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Infernox&theme=monokai&hide_border=false">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Infernox&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</div>
 
-<hr>
+## 👨‍💻LOC:
+<img src="assets/light.gif">
 
-<h3 align="center">GitHub Stats</h3>
+<div align="center">
+  <img align="center" src="https://api.githubtrends.io/user/svg/Cyber-Infernox/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+</div>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-infernox&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 📈 Productivity Stats
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyber-Infernox&theme=monokai" display=block width=100% height=auto alt="Profile Details"></td>
+  </tr> 
+</table>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<img src="assets/light.gif"> 
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-infernox&" alt="GitHub Streak" />
-</p>
+## 🏆 GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Cyber-Infernox&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
+</div>
+
+<br>
+
+[![Cyber_Infernox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Infernox&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="assets/light.gif"> 
+
+## 🐍 Watch My Contribution Graph get eaten by Snake 
+
+![Cyber_Infernox's Snake gif](https://github.com/Cyber-Infernox/Cyber-Infernox/blob/output/github-contribution-grid-snake.svg)
+
+<img src="assets/light.gif"> 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+
+![footer](assets/footer.webp)
