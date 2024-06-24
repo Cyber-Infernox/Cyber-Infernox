@@ -15,20 +15,20 @@
 
 <hr>
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-    <b>🔭 I’m currently working on:</b> Exciting projects<br>
-    <b>🌱 I’m currently learning:</b> New technologies and frameworks<br>
-    <b>👯 I’m looking to collaborate on:</b> Innovative projects<br>
-    <b>🤝 I’m looking for help with:</b> Open-source contributions<br>
-    <b>💬 Ask me about:</b> Anything tech-related<br>
-    <b>📫 How to reach me:</b> Via email or social media
+    🔭 I’m currently working on: Exciting projects<br>
+    🌱 I’m currently learning: New technologies and frameworks<br>
+    👯 I’m looking to collaborate on: Innovative projects<br>
+    🤝 I’m looking for help with: Open-source contributions<br>
+    💬 Ask me about: Anything tech-related<br>
+    📫 How to reach me: Via email or social media
 </p>
 
 <hr>
 
-<h3 align="center">Connect with Me</h3>
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
     <a href="mailto:sayonkar@gmail.com"><img alt="gmail" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
@@ -40,7 +40,7 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -63,55 +63,43 @@
 
 <hr>
 
-## 📊 GitHub Stats
-<img src="assets/light.gif">
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
+    <br><br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Infernox&theme=monokai&hide_border=false">
+    <br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Infernox&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Infernox&theme=monokai&hide_border=false">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Infernox&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</div>
+<hr>
 
-## 👨‍💻LOC:
-<img src="assets/light.gif">
+<h2 align="center">📈 Productivity Stats</h2>
+<p align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyber-Infernox&theme=monokai" display=block width=100% height=auto alt="Profile Details">
+</p>
 
-<div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/Cyber-Infernox/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</div>
+<hr>
 
-## 📈 Productivity Stats
-<table align="center">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cyber-Infernox&theme=monokai" display=block width=100% height=auto alt="Profile Details"></td>
-  </tr> 
-</table>
-
-<img src="assets/light.gif"> 
-
-## 🏆 GitHub Trophies
-<div align="center">
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Cyber-Infernox&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
-</div>
+</p>
 
-<br>
+<hr>
 
-[![Cyber_Infernox's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Infernox&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">📈 GitHub Activity</h2>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Infernox&theme=react-dark" alt="GitHub Activity Graph">
+</p>
 
-<img src="assets/light.gif"> 
+<hr>
 
-## 🐍 Watch My Contribution Graph get eaten by Snake 
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
-![Cyber_Infernox's Snake gif](https://github.com/Cyber-Infernox/Cyber-Infernox/blob/output/github-contribution-grid-snake.svg)
-
-<img src="assets/light.gif"> 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+<hr>
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
-
-![footer](assets/footer.webp)
