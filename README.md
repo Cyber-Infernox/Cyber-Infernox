@@ -1,48 +1,44 @@
-![Untitled design](https://user-images.githubusercontent.com/97396217/209659759-55872455-4526-4a6a-885e-f12bd2795452.gif)
+![Header](https://user-images.githubusercontent.com/97396217/209659759-55872455-4526-4a6a-885e-f12bd2795452.gif)
 
 <h1 align="center">Hi 👋, I'm Cyber_Infernox</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<hr>
-
 <p align="center">
-    <img alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-</p>
-
-<p align="left">
     <img src="https://komarev.com/ghpvc/?username=cyber-infernox&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-infernox" />
 </p>
 
-- 🔭 I’m currently working on **something**
-
-- 🌱 I’m currently learning **something**
-
-- 👯 I’m looking to collaborate on **something**
-
-- 🤝 I’m looking for help with **something**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **later**
-
-<br>
-<br>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
-
 <p align="center">
-    <a href="mailto:sayonkar@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-    <a href="https://github.com/Cyber-Infernox/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-    <a href="https://www.linkedin.com/in/sayon-kar/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-    <a href="https://www.instagram.com/slander_playz/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-    <a href="https://github.com/Slander-Playz"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-    <a href="https://discordapp.com/users/931734225730826300/"><img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding" width="600">
 </p>
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">About Me</h3>
+
+- 🔭 I’m currently working on **exciting projects**
+- 🌱 I’m currently learning **new technologies and frameworks**
+- 👯 I’m looking to collaborate on **innovative projects**
+- 🤝 I’m looking for help with **open-source contributions**
+- 💬 Ask me about **anything tech-related**
+- 📫 How to reach me **via email or social media**
+
+<hr>
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+    <a href="mailto:sayonkar@gmail.com"><img alt="gmail" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+    <a href="https://github.com/Cyber-Infernox"><img alt="github" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+    <a href="https://www.linkedin.com/in/sayon-kar/"><img alt="linkedin" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+    <a href="https://www.instagram.com/slander_playz/"><img alt="instagram" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+    <a href="https://discordapp.com/users/931734225730826300/"><img alt="discord" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
+</p>
+
+<hr>
+
+<h3 align="center">Languages and Tools</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -65,25 +61,25 @@
 
 <hr>
 
+<h3 align="center">Achievements</h3>
+
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-infernox" alt="cyber-infernox" /></a>
 </p>
 
 <hr>
 
+<h3 align="center">GitHub Stats</h3>
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-infernox&show_icons=true&locale=en&layout=compact" alt="cyber-infernox" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-infernox&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<hr>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&show_icons=true&locale=en" alt="cyber-infernox" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<hr>
-
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-infernox&" alt="cyber-infernox" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-infernox&" alt="GitHub Streak" />
 </p>
 
