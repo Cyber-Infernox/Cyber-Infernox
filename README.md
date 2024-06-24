@@ -17,12 +17,14 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m currently working on **exciting projects**
-- 🌱 I’m currently learning **new technologies and frameworks**
-- 👯 I’m looking to collaborate on **innovative projects**
-- 🤝 I’m looking for help with **open-source contributions**
-- 💬 Ask me about **anything tech-related**
-- 📫 How to reach me **via email or social media**
+<p align="center">
+    <b>🔭 I’m currently working on:</b> Exciting projects<br>
+    <b>🌱 I’m currently learning:</b> New technologies and frameworks<br>
+    <b>👯 I’m looking to collaborate on:</b> Innovative projects<br>
+    <b>🤝 I’m looking for help with:</b> Open-source contributions<br>
+    <b>💬 Ask me about:</b> Anything tech-related<br>
+    <b>📫 How to reach me:</b> Via email or social media
+</p>
 
 <hr>
 
@@ -82,4 +84,3 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-infernox&" alt="GitHub Streak" />
 </p>
-
