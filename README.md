@@ -5,7 +5,7 @@
 
 <hr>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l0HlNfAaZ6Nm5p5u4/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-infernox&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-infernox" /> </p>
 
