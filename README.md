@@ -85,6 +85,12 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-infernox&show_icons=true&theme=monokai">
+</p>
+
+<hr>
+
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-infernox&show_icons=true&theme=monokai&include_all_commits=true">
     <br><br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Infernox&show_icons=true&theme=monokai&hide_border=false">
@@ -103,21 +109,21 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Cyber-Infernox&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
+    <img src="https://github-profile-trophy.vercel.app/?username=Cyber-Infernox&theme=monokai&no-frame=false&no-bg=false&margin-w=4&column=8">
 </p>
 
 <hr>
 
 <h2 align="center">📈 GitHub Activity</h2>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Infernox&theme=react-dark" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyber-Infernox&theme=monokai" alt="GitHub Activity Graph">
 </p>
 
 <hr>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai">
 </p>
 
 <hr>
