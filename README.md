@@ -31,7 +31,7 @@
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-    <a href="mailto:sayonkar@gmail.com">Contact me</a>
+    <a href="mailto:sayonkar@gmail.com"><img alt="gmail" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/gmail.png"/></a>
     <a href="https://github.com/Slander-Playz"><img alt="github" width="50px" style="margin:30px" src="https://img.icons8.com/nolan/96/github.png"/></a>
     <a href="https://www.linkedin.com/in/sayon-kar/"><img alt="linkedin" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
     <a href="https://www.instagram.com/slander_playz/"><img alt="instagram" width="50px" style="margin:30px" src="https://img.icons8.com/nolan/96/instagram-new.png"/></a>
