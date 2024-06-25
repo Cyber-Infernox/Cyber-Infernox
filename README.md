@@ -85,7 +85,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyber-infernox&show_icons=true&theme=monokai">
+    <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph"">
 </p>
 
 <hr>
