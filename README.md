@@ -87,7 +87,7 @@
 <p align="center">
 <!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyber-Infernox&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
     <br><br> -->
-    ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
+    ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true)
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cyber-Infernox&theme=monokai&hide_border=false">
     <br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Infernox&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
