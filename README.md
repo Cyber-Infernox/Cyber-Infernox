@@ -36,14 +36,14 @@
     <a href="https://www.linkedin.com/in/sayon-kar/"><img alt="linkedin" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
     <a href="https://www.instagram.com/slander_playz/"><img alt="instagram" width="50px" style="margin:30px" src="https://img.icons8.com/nolan/96/instagram-new.png"/></a>
     <a href="https://discordapp.com/users/931734225730826300/"><img alt="discord" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/discord-logo.png"/></a>
-    <a href="https://your-portfolio-link.com"><img alt="portfolio" width="50px" style="margin:30px" src="https://img.icons8.com/nolan/96/domain.png"/></a>
-    <a href="https://leetcode.com/your-profile"><img alt="leetcode" width="50px" style="margin:30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
-    <a href="https://auth.geeksforgeeks.org/user/your-profile"><img alt="gfg" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/GeeksforGeeks.png"/></a>
-    <a href="https://www.interviewbit.com/profile/your-profile"><img alt="interviewbit" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/code.png"/></a>
-    <a href="https://www.hackerrank.com/your-profile"><img alt="hackerrank" width="50px" style="margin:30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
-    <a href="https://t.me/your-profile"><img alt="telegram" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/telegram-app.png"/></a>
-    <a href="https://stackoverflow.com/users/your-profile"><img alt="stackoverflow" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
-    <a href="https://slack.com/your-profile"><img alt="slack" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/slack-new.png"/></a>
+    <a href="https://sayon-kar-portfolio.vercel.app/"><img alt="portfolio" width="50px" style="margin:30px" src="https://img.icons8.com/nolan/96/domain.png"/></a>
+    <a href="https://leetcode.com/u/Cyber_Infernox/"><img alt="leetcode" width="50px" style="margin:30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://www.geeksforgeeks.org/user/cyber_infernox/"><img alt="gfg" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/GeeksforGeeks.png"/></a>
+    <a href="https://www.interviewbit.com/profile/Cyber_Infernox/"><img alt="interviewbit" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/code.png"/></a>
+    <a href="https://www.hackerrank.com/profile/Cyber_Infernox"><img alt="hackerrank" width="50px" style="margin:30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://t.me/Cyber_Infernox"><img alt="telegram" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/telegram-app.png"/></a>
+    <a href="https://stackoverflow.com/users/22846706/cyber-infernox?tab=profile"><img alt="stackoverflow" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
+    <a href="https://slack.com/Cyber_Infernox"><img alt="slack" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/slack-new.png"/></a>
 </p>
 
 <hr>
