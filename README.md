@@ -39,20 +39,20 @@
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-    <a href="mailto:sayonkar@gmail.com" target="blank"><img alt="gmail" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/gmail.png"/></a>
-    <a href="https://github.com/Slander-Playz" target="blank"><img alt="github" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/nolan/96/github.png"/></a>
-    <a href="https://www.linkedin.com/in/sayon-kar/" target="blank"><img alt="linkedin" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
-    <a href="https://www.instagram.com/slander_playz/" target="blank"><img alt="instagram" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/nolan/96/instagram-new.png"/></a>
-    <a href="https://discordapp.com/users/931734225730826300/" target="blank"><img alt="discord" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/discord-logo.png"/></a>
-    <a href="https://sayon-kar-portfolio.vercel.app/" target="blank"><img alt="portfolio" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/nolan/96/domain.png"/></a>
-    <a href="https://leetcode.com/u/Cyber_Infernox/" target="blank"><img alt="leetcode" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
-    <a href="https://www.geeksforgeeks.org/user/cyber_infernox/" target="blank"><img alt="gfg" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/GeeksforGeeks.png"/></a>
-    <a href="https://www.interviewbit.com/profile/Cyber_Infernox/" target="blank"><img alt="interviewbit" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/code.png"/></a>
-    <a href="https://www.hackerrank.com/profile/Cyber_Infernox" target="blank"><img alt="hackerrank" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
-    <a href="https://t.me/Cyber_Infernox" target="blank"><img alt="telegram" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/telegram-app.png"/></a>
-    <a href="https://stackoverflow.com/users/22846706/cyber-infernox?tab=profile" target="blank"><img alt="stackoverflow" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
-    <a href="https://cyberoxalgoalley.slack.com/team/U079L7A3HDY" target="blank"><img alt="slack" width="50px" height="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/slack-new.png"/></a>
-    <a href="https://www.kaggle.com/cyberinfernox" target="blank"><img alt="kaggle" width="50px" height="50px" style="margin: 30px;" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
+    <a href="mailto:sayonkar@gmail.com" target="blank"><img alt="gmail" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/color/96/000000/gmail.png"/></a>
+    <a href="https://github.com/Slander-Playz" target="blank"><img alt="github" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/nolan/96/github.png"/></a>
+    <a href="https://www.linkedin.com/in/sayon-kar/" target="blank"><img alt="linkedin" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
+    <a href="https://www.instagram.com/slander_playz/" target="blank"><img alt="instagram" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/nolan/96/instagram-new.png"/></a>
+    <a href="https://discordapp.com/users/931734225730826300/" target="blank"><img alt="discord" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/color/96/000000/discord-logo.png"/></a>
+    <a href="https://sayon-kar-portfolio.vercel.app/" target="blank"><img alt="portfolio" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/nolan/96/domain.png"/></a>
+    <a href="https://leetcode.com/u/Cyber_Infernox/" target="blank"><img alt="leetcode" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://www.geeksforgeeks.org/user/cyber_infernox/" target="blank"><img alt="gfg" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/color/96/000000/GeeksforGeeks.png"/></a>
+    <a href="https://www.interviewbit.com/profile/Cyber_Infernox/" target="blank"><img alt="interviewbit" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/color/96/000000/code.png"/></a>
+    <a href="https://www.hackerrank.com/profile/Cyber_Infernox" target="blank"><img alt="hackerrank" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://t.me/Cyber_Infernox" target="blank"><img alt="telegram" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/color/96/000000/telegram-app.png"/></a>
+    <a href="https://stackoverflow.com/users/22846706/cyber-infernox?tab=profile" target="blank"><img alt="stackoverflow" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
+    <a href="https://cyberoxalgoalley.slack.com/team/U079L7A3HDY" target="blank"><img alt="slack" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://img.icons8.com/color/96/000000/slack-new.png"/></a>
+    <a href="https://www.kaggle.com/cyberinfernox" target="blank"><img alt="kaggle" width="50px" height="50px" style="margin: 30px; vertical-align: middle;" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a>
 </p>
 
 </p>
