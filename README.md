@@ -31,19 +31,19 @@
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
-    <a href="mailto:sayonkar@gmail.com"><img alt="gmail" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-    <a href="https://github.com/Slander-Playz"><img alt="github" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-    <a href="https://www.linkedin.com/in/sayon-kar/"><img alt="linkedin" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-    <a href="https://www.instagram.com/slander_playz/"><img alt="instagram" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-    <a href="https://discordapp.com/users/931734225730826300/"><img alt="discord" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
-    <a href="https://your-portfolio-link.com"><img alt="portfolio" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
-    <a href="https://leetcode.com/your-profile"><img alt="leetcode" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/leetcode.png"/></a>
-    <a href="https://auth.geeksforgeeks.org/user/your-profile"><img alt="gfg" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/GeeksforGeeks.png"/></a>
-    <a href="https://www.interviewbit.com/profile/your-profile"><img alt="interviewbit" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/code.png"/></a>
-    <a href="https://www.hackerrank.com/your-profile"><img alt="hackerrank" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/hackerrank.png"/></a>
-    <a href="https://t.me/your-profile"><img alt="telegram" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
-    <a href="https://stackoverflow.com/users/your-profile"><img alt="stackoverflow" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/stackoverflow.png"/></a>
-    <a href="https://slack.com/your-profile"><img alt="slack" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/slack-new.png"/></a>
+    <a href="mailto:sayonkar@gmail.com"><img alt="gmail" width="50px" style="padding:10px" src="https://img.icons8.com/color/96/000000/gmail.png"/></a>
+    <a href="https://github.com/Slander-Playz"><img alt="github" width="50px" style="padding:10px" src="https://img.icons8.com/nolan/96/github.png"/></a>
+    <a href="https://www.linkedin.com/in/sayon-kar/"><img alt="linkedin" width="50px" style="padding:10px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
+    <a href="https://www.instagram.com/slander_playz/"><img alt="instagram" width="50px" style="padding:10px" src="https://img.icons8.com/nolan/96/instagram-new.png"/></a>
+    <a href="https://discordapp.com/users/931734225730826300/"><img alt="discord" width="50px" style="padding:10px" src="https://img.icons8.com/color/96/000000/discord-logo.png"/></a>
+    <a href="https://your-portfolio-link.com"><img alt="portfolio" width="50px" style="padding:10px" src="https://img.icons8.com/nolan/96/domain.png"/></a>
+    <a href="https://leetcode.com/your-profile"><img alt="leetcode" width="50px" style="padding:10px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://auth.geeksforgeeks.org/user/your-profile"><img alt="gfg" width="50px" style="padding:10px" src="https://img.icons8.com/color/96/000000/GeeksforGeeks.png"/></a>
+    <a href="https://www.interviewbit.com/profile/your-profile"><img alt="interviewbit" width="50px" style="padding:10px" src="https://img.icons8.com/color/96/000000/code.png"/></a>
+    <a href="https://www.hackerrank.com/your-profile"><img alt="hackerrank" width="50px" style="padding:10px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://t.me/your-profile"><img alt="telegram" width="50px" style="padding:10px" src="https://img.icons8.com/color/96/000000/telegram-app.png"/></a>
+    <a href="https://stackoverflow.com/users/your-profile"><img alt="stackoverflow" width="50px" style="padding:10px" src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
+    <a href="https://slack.com/your-profile"><img alt="slack" width="50px" style="padding:10px" src="https://img.icons8.com/color/96/000000/slack-new.png"/></a>
 </p>
 
 <hr>
