@@ -43,7 +43,7 @@
     <a href="https://www.hackerrank.com/profile/Cyber_Infernox"><img alt="hackerrank" width="50px" style="margin:30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
     <a href="https://t.me/Cyber_Infernox"><img alt="telegram" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/telegram-app.png"/></a>
     <a href="https://stackoverflow.com/users/22846706/cyber-infernox?tab=profile"><img alt="stackoverflow" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
-    <a href="https://opensourcemnnit.slack.com/team/U04D3HQ1M98"><img alt="slack" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/slack-new.png"/></a>
+    <a href="https://cyberoxalgoalley.slack.com/team/U079L7A3HDY"><img alt="slack" width="50px" style="margin:30px" src="https://img.icons8.com/color/96/000000/slack-new.png"/></a>
 </p>
 
 <hr>
