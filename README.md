@@ -37,12 +37,12 @@
     <a href="https://www.instagram.com/slander_playz/"><img alt="instagram" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
     <a href="https://discordapp.com/users/931734225730826300/"><img alt="discord" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>
     <a href="https://your-portfolio-link.com"><img alt="portfolio" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
-    <a href="https://leetcode.com/your-profile"><img alt="leetcode" width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/></a>
-    <a href="https://auth.geeksforgeeks.org/user/your-profile"><img alt="gfg" width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"/></a>
+    <a href="https://leetcode.com/your-profile"><img alt="leetcode" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/leetcode.png"/></a>
+    <a href="https://auth.geeksforgeeks.org/user/your-profile"><img alt="gfg" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/GeeksforGeeks.png"/></a>
     <a href="https://www.interviewbit.com/profile/your-profile"><img alt="interviewbit" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/code.png"/></a>
-    <a href="https://www.hackerrank.com/your-profile"><img alt="hackerrank" width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/></a>
+    <a href="https://www.hackerrank.com/your-profile"><img alt="hackerrank" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/hackerrank.png"/></a>
     <a href="https://t.me/your-profile"><img alt="telegram" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/></a>
-    <a href="https://stackoverflow.com/users/your-profile"><img alt="stackoverflow" width="10%" style="padding:10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/></a>
+    <a href="https://stackoverflow.com/users/your-profile"><img alt="stackoverflow" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/stackoverflow.png"/></a>
     <a href="https://slack.com/your-profile"><img alt="slack" width="10%" style="padding:10px" src="https://img.icons8.com/clouds/100/000000/slack-new.png"/></a>
 </p>
 
