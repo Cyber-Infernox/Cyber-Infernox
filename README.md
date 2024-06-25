@@ -52,7 +52,7 @@
     <a href="https://t.me/Cyber_Infernox"><img alt="telegram" width="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/telegram-app.png"/></a>
     <a href="https://stackoverflow.com/users/22846706/cyber-infernox?tab=profile"><img alt="stackoverflow" width="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
     <a href="https://cyberoxalgoalley.slack.com/team/U079L7A3HDY"><img alt="slack" width="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/slack-new.png"/></a>
-    <a href="https://www.kaggle.com/cyberinfernox"><img alt="kaggle" width="50px" style="margin: 30px;" src="https://img.icons8.com/nolan/96/kaggle.png"/></a>
+    <a href="https://www.kaggle.com/cyberinfernox"><img alt="kaggle" width="50px" style="margin: 30px;" src="https://img.icons8.com/color/96/000000/kaggle.png"/></a>
 </p>
 
 </p>
